@@ -2,6 +2,12 @@
 
 ## Project Overview
 
+## 🚀 Run Project
+
+[![Run Project](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tanuuu-debug-job-market-analyzer-app-wqwpkn.streamlit.app/)
+
+Click the button above to open the Job Market Analyzer dashboard.
+
 The Job Market Analyzer is a Python-based data analytics project that analyzes historical and live job postings to identify hiring trends, frequently requested skills, job locations, companies, experience levels, and available salary information.
 
 The dashboard is developed using Streamlit, Pandas, and Plotly.

@@ -1,0 +1,232 @@
+role,skill,count
+Data Analyst,python,139
+Data Analyst,r,61
+Data Analyst,sql,246
+Data Analyst,statistics,85
+Data Analyst,communication,156
+Data Analyst,data analysis,146
+Data Analyst,business intelligence,41
+Data Analyst,project management,39
+Data Analyst,leadership,82
+Data Analyst,aws,32
+Data Analyst,excel,147
+Data Analyst,artificial intelligence,7
+Data Analyst,go,43
+Data Analyst,data analytics,81
+Data Analyst,power bi,64
+Data Analyst,machine learning,54
+Data Analyst,tableau,84
+Data Analyst,powerbi,19
+Data Analyst,oracle,17
+Data Analyst,sql server,16
+Data Analyst,microsoft office,40
+Data Analyst,deep learning,1
+Data Analyst,google cloud,7
+Data Analyst,c,55
+Data Analyst,azure,20
+Data Analyst,gcp,3
+Data Analyst,javascript,45
+Data Analyst,problem solving,27
+Data Analyst,numpy,3
+Data Analyst,github,4
+Data Analyst,matplotlib,1
+Data Analyst,postgresql,4
+Data Analyst,docker,3
+Data Analyst,kubernetes,3
+Data Analyst,git,7
+Data Analyst,c++,41
+Data Analyst,pandas,2
+Data Analyst,scikit-learn,2
+Data Analyst,java,11
+Data Analyst,ruby,1
+Data Analyst,typescript,1
+Data Analyst,c#,38
+Data Analyst,html,42
+Data Analyst,mysql,3
+Data Analyst,mongodb,1
+Data Analyst,css,1
+Data Analyst,indesign,1
+Data Scientist,python,211
+Data Scientist,r,141
+Data Scientist,sql,147
+Data Scientist,statistics,154
+Data Scientist,tableau,46
+Data Scientist,leadership,48
+Data Scientist,java,22
+Data Scientist,c,32
+Data Scientist,c++,17
+Data Scientist,machine learning,176
+Data Scientist,deep learning,49
+Data Scientist,artificial intelligence,45
+Data Scientist,data analysis,94
+Data Scientist,data analytics,59
+Data Scientist,communication,119
+Data Scientist,business intelligence,16
+Data Scientist,scikit-learn,20
+Data Scientist,aws,59
+Data Scientist,docker,25
+Data Scientist,kubernetes,14
+Data Scientist,javascript,13
+Data Scientist,powerbi,13
+Data Scientist,oracle,16
+Data Scientist,jenkins,9
+Data Scientist,git,13
+Data Scientist,azure,27
+Data Scientist,excel,18
+Data Scientist,pandas,19
+Data Scientist,postgresql,3
+Data Scientist,google cloud,12
+Data Scientist,gcp,25
+Data Scientist,react,2
+Data Scientist,project management,31
+Data Scientist,mysql,6
+Data Scientist,numpy,15
+Data Scientist,github,6
+Data Scientist,go,11
+Data Scientist,power bi,16
+Data Scientist,matplotlib,6
+Data Scientist,mongodb,3
+Data Scientist,flask,2
+Data Scientist,typescript,1
+Data Scientist,c#,2
+Data Scientist,problem solving,14
+Data Scientist,html,8
+Data Scientist,sql server,6
+Data Scientist,css,2
+Data Scientist,microsoft office,4
+Data Scientist,photoshop,1
+Business Analyst,sql,133
+Business Analyst,sql server,9
+Business Analyst,communication,313
+Business Analyst,microsoft office,66
+Business Analyst,project management,124
+Business Analyst,excel,156
+Business Analyst,data analysis,96
+Business Analyst,java,8
+Business Analyst,javascript,6
+Business Analyst,github,1
+Business Analyst,leadership,110
+Business Analyst,powerbi,16
+Business Analyst,problem solving,54
+Business Analyst,power bi,34
+Business Analyst,aws,16
+Business Analyst,azure,24
+Business Analyst,docker,2
+Business Analyst,kubernetes,2
+Business Analyst,oracle,29
+Business Analyst,go,33
+Business Analyst,mysql,4
+Business Analyst,tableau,37
+Business Analyst,business intelligence,27
+Business Analyst,statistics,20
+Business Analyst,c,27
+Business Analyst,python,28
+Business Analyst,r,16
+Business Analyst,machine learning,6
+Business Analyst,data analytics,19
+Business Analyst,html,9
+Business Analyst,css,1
+Business Analyst,angular,4
+Business Analyst,c#,3
+Business Analyst,typescript,3
+Business Analyst,artificial intelligence,4
+Business Analyst,google cloud,5
+Business Analyst,c++,2
+Business Analyst,gcp,5
+Business Analyst,indesign,1
+Business Analyst,jenkins,1
+Business Analyst,git,1
+Business Analyst,mongodb,1
+Data Engineer,python,276
+Data Engineer,sql,279
+Data Engineer,aws,206
+Data Engineer,git,48
+Data Engineer,java,109
+Data Engineer,c,39
+Data Engineer,c++,8
+Data Engineer,r,18
+Data Engineer,data analysis,36
+Data Engineer,azure,172
+Data Engineer,google cloud,47
+Data Engineer,gcp,51
+Data Engineer,github,19
+Data Engineer,communication,155
+Data Engineer,javascript,16
+Data Engineer,typescript,4
+Data Engineer,php,3
+Data Engineer,mysql,39
+Data Engineer,html,5
+Data Engineer,css,4
+Data Engineer,react,5
+Data Engineer,node.js,6
+Data Engineer,docker,27
+Data Engineer,oracle,40
+Data Engineer,sql server,50
+Data Engineer,leadership,76
+Data Engineer,data analytics,44
+Data Engineer,go,38
+Data Engineer,tableau,38
+Data Engineer,machine learning,83
+Data Engineer,kubernetes,33
+Data Engineer,business intelligence,41
+Data Engineer,flask,3
+Data Engineer,django,5
+Data Engineer,problem solving,22
+Data Engineer,artificial intelligence,12
+Data Engineer,statistics,28
+Data Engineer,powerbi,12
+Data Engineer,jenkins,20
+Data Engineer,project management,24
+Data Engineer,c#,19
+Data Engineer,power bi,43
+Data Engineer,angular,3
+Data Engineer,postgresql,18
+Data Engineer,pandas,13
+Data Engineer,excel,10
+Data Engineer,mongodb,20
+Data Engineer,deep learning,4
+Data Engineer,numpy,4
+Data Engineer,microsoft office,2
+Data Engineer,ruby,3
+Data Engineer,matplotlib,1
+Data Engineer,scikit-learn,1
+Machine Learning Engineer,python,75
+Machine Learning Engineer,aws,23
+Machine Learning Engineer,azure,19
+Machine Learning Engineer,google cloud,12
+Machine Learning Engineer,machine learning,82
+Machine Learning Engineer,communication,34
+Machine Learning Engineer,leadership,12
+Machine Learning Engineer,c,24
+Machine Learning Engineer,c++,19
+Machine Learning Engineer,artificial intelligence,12
+Machine Learning Engineer,deep learning,32
+Machine Learning Engineer,docker,12
+Machine Learning Engineer,kubernetes,15
+Machine Learning Engineer,numpy,8
+Machine Learning Engineer,sql,18
+Machine Learning Engineer,github,4
+Machine Learning Engineer,jenkins,3
+Machine Learning Engineer,pandas,9
+Machine Learning Engineer,scikit-learn,13
+Machine Learning Engineer,statistics,19
+Machine Learning Engineer,data analysis,14
+Machine Learning Engineer,java,23
+Machine Learning Engineer,go,8
+Machine Learning Engineer,flask,1
+Machine Learning Engineer,gcp,5
+Machine Learning Engineer,problem solving,2
+Machine Learning Engineer,r,12
+Machine Learning Engineer,excel,3
+Machine Learning Engineer,c#,3
+Machine Learning Engineer,project management,4
+Machine Learning Engineer,git,4
+Machine Learning Engineer,mongodb,3
+Machine Learning Engineer,oracle,3
+Machine Learning Engineer,sql server,4
+Machine Learning Engineer,data analytics,3
+Machine Learning Engineer,powerbi,1
+Machine Learning Engineer,tableau,1
+Machine Learning Engineer,power bi,2
+Machine Learning Engineer,business intelligence,1
+Machine Learning Engineer,mysql,1

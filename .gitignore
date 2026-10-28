@@ -1,0 +1,19 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+.streamlit/secrets.toml
+
+.vscode/
+*.log
+
+
+# Large historical datasets
+data/postings.csv
+data/cleaned_postings.csv
+data/jobs_with_skills.csv
